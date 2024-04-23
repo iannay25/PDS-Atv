@@ -1,0 +1,42 @@
+﻿<Window x:Class="Atvd_PDS.Window1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Atvd_PDS"
+        mc:Ignorable="d"
+        Title="Window1" Height="450" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="0.3*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="80" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+
+        <Border Grid.Column="0" Background= "LightSeaGreen" Grid.RowSpan="2"/>
+        <Image Grid.Column="1" Source="Imagem/Icon.png" Margin="51,54,51,52" Grid.RowSpan="2" RenderTransformOrigin="0.5,0.5">
+            <Image.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform AngleX="0.57"/>
+                    <RotateTransform/>
+                    <TranslateTransform X="1.632"/>
+                </TransformGroup>
+            </Image.RenderTransform>
+        </Image>
+        <Label Grid.Row="0" Content="Menu" FontFamily="Times new roman" FontSize="35" Foreground="White" HorizontalAlignment="Center" Padding="8" />
+
+        <StackPanel  HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Row="2">
+            <Button Grid.Row="1" Content="Aluno" FontFamily="Times new roman" FontSize="25" Foreground="Black" HorizontalAlignment="Center" VerticalAlignment="Center" Background="White" BorderBrush="White" Click="Button_Click_4"/>
+            <Button Grid.Row="1" Content="Escola" FontFamily="Times new roman" FontSize="25" Foreground="Black" HorizontalAlignment="Center" VerticalAlignment="Center"  Margin="0 10 0 0" Background="White" BorderBrush="#FFD5F7E6" Click="Button_Click_3"/>
+            <Button Grid.Row="1" Content="Curso" FontFamily="Times new roman" FontSize="25" Foreground="Black" HorizontalAlignment="Center" VerticalAlignment="Center"  Margin="0 10 0 0" Background="White" BorderBrush="#FFD5F7E6" Click="Button_Click_1"/>
+            <Button Grid.Row="1" Content="Turma" FontFamily="Times new roman" FontSize="25" Foreground="Black" HorizontalAlignment="Center" VerticalAlignment="Center"  Margin="0 10 0 0" Background="White" BorderBrush="#FFD5F7E6" Click="Button_Click_5"  />
+            <Button Grid.Row="1" Content="Relatório" FontFamily="Times new roman" FontSize="25" Foreground="Black" HorizontalAlignment="Center" VerticalAlignment="Center"  Margin="0 10 0 0" Background="White" BorderBrush="#FFD5F706" Click="Button_Click_2" />
+        </StackPanel>
+
+        <Frame x:Name="framePage" Grid.Column="2" Grid.RowSpan="2" NavigationUIVisibility="Hidden"/>
+    </Grid>
+</Window>

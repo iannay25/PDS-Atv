@@ -1,0 +1,28 @@
+C:\Users\ianna\source\repos\Atvd PDS\Atvd PDS\obj\Debug\Atvd PDS.csproj.AssemblyReference.cache
+C:\Users\ianna\source\repos\Atvd PDS\Atvd PDS\obj\Debug\Atvd PDS.csproj.SuggestedBindingRedirects.cache
+C:\Users\ianna\source\repos\Atvd PDS\Atvd PDS\obj\Debug\MainWindow.g.cs
+C:\Users\ianna\source\repos\Atvd PDS\Atvd PDS\obj\Debug\App.g.cs
+C:\Users\ianna\source\repos\Atvd PDS\Atvd PDS\obj\Debug\Atvd PDS_MarkupCompile.cache
+C:\Users\ianna\source\repos\Atvd PDS\Atvd PDS\obj\Debug\Atvd PDS_MarkupCompile.lref
+C:\Users\ianna\source\repos\Atvd PDS\Atvd PDS\bin\Debug\Atvd PDS.exe.config
+C:\Users\ianna\source\repos\Atvd PDS\Atvd PDS\bin\Debug\Atvd PDS.exe
+C:\Users\ianna\source\repos\Atvd PDS\Atvd PDS\bin\Debug\Atvd PDS.pdb
+C:\Users\ianna\source\repos\Atvd PDS\Atvd PDS\obj\Debug\MainWindow.baml
+C:\Users\ianna\source\repos\Atvd PDS\Atvd PDS\obj\Debug\Atvd PDS.g.resources
+C:\Users\ianna\source\repos\Atvd PDS\Atvd PDS\obj\Debug\Atvd_PDS.Properties.Resources.resources
+C:\Users\ianna\source\repos\Atvd PDS\Atvd PDS\obj\Debug\Atvd PDS.csproj.GenerateResource.cache
+C:\Users\ianna\source\repos\Atvd PDS\Atvd PDS\obj\Debug\Atvd PDS.csproj.CoreCompileInputs.cache
+C:\Users\ianna\source\repos\Atvd PDS\Atvd PDS\obj\Debug\Atvd PDS.exe
+C:\Users\ianna\source\repos\Atvd PDS\Atvd PDS\obj\Debug\Atvd PDS.pdb
+C:\Users\ianna\source\repos\Atvd PDS\Atvd PDS\obj\Debug\Window1.g.cs
+C:\Users\ianna\source\repos\Atvd PDS\Atvd PDS\obj\Debug\Window1.baml
+C:\Users\ianna\source\repos\Atvd PDS\Atvd PDS\obj\Debug\CadastrarCurso.g.cs
+C:\Users\ianna\source\repos\Atvd PDS\Atvd PDS\obj\Debug\CadastrarCurso.baml
+C:\Users\ianna\source\repos\Atvd PDS\Atvd PDS\obj\Debug\CadastroRelatorio.g.cs
+C:\Users\ianna\source\repos\Atvd PDS\Atvd PDS\obj\Debug\CadastroRelatorio.baml
+C:\Users\ianna\source\repos\Atvd PDS\Atvd PDS\obj\Debug\CadastroAluno.g.cs
+C:\Users\ianna\source\repos\Atvd PDS\Atvd PDS\obj\Debug\CadastroEscola.g.cs
+C:\Users\ianna\source\repos\Atvd PDS\Atvd PDS\obj\Debug\CadastroTurma.g.cs
+C:\Users\ianna\source\repos\Atvd PDS\Atvd PDS\obj\Debug\CadastroAluno.baml
+C:\Users\ianna\source\repos\Atvd PDS\Atvd PDS\obj\Debug\CadastroEscola.baml
+C:\Users\ianna\source\repos\Atvd PDS\Atvd PDS\obj\Debug\CadastroTurma.baml
